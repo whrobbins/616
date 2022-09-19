@@ -20,7 +20,7 @@ If you live here, inform your children or roommates of what is possible to physi
 
 Here's a picture of one incident: the police searched the house after getting us onto the front steps. Luckly nobody had a jumpy trigger...
 
-![SWATing](assets/images.swat.jpg)
+![SWATing](assets/images/swat.jpg)
 
 # Basement flooding and mold
 
