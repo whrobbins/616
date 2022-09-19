@@ -6,6 +6,8 @@ layout: default
 
 I lived at 616 N Fuller for a year. There were some amazing moments, and some terrible ones. Here's what you can expect from the propery that won't come through with a tour or the [Zillow listing](https://www.zillow.com/homedetails/616-N-Fuller-Ave-Los-Angeles-CA-90036/20785361_zpid/):
 
+![house](assets/images/house.png)
+
 # Danger: SWAT teams will be called to your home
 
 [Offline TV](https://en.wikipedia.org/wiki/OfflineTV), one of the most popular youtube streaming collectives in the world, used to live at the house and make content. With over 10 million followers, there are certainly some crazies obsessed with the inhabitants.
@@ -20,7 +22,7 @@ If you live here, inform your children or roommates of what is possible to physi
 
 Here's a picture of one incident: the police searched the house after getting us onto the front steps. Luckly nobody had a jumpy trigger...
 
-![SWATing](assets/images/swat.jpg)
+![SWATing](assets/images/swat.jpeg)
 
 # Basement flooding and mold
 
