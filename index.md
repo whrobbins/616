@@ -6,7 +6,7 @@ layout: default
 
 I lived at this house for a year. There were some amazing moments, and some terrible ones. Here's what you can expect from the propery that won't come through with a tour or the [Zillow listing](https://www.zillow.com/homedetails/616-N-Fuller-Ave-Los-Angeles-CA-90036/20785361_zpid/):
 
-![house](assets/images/house.png)
+![house](assets/images/house.jpg)
 
 # Danger: SWAT teams will be called to your home
 
