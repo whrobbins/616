@@ -3,3 +3,5 @@ description: It was an interesting year living at 616 N Fuller Ave, Los Angeles 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-modernist
+include:
+  - assets/images/favicon.ico
