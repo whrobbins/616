@@ -35,3 +35,11 @@ The backyard and grass worked wonderfully. Although there was a fun incident whe
 Most of the neighbors on the block didn't really interact with us, but both next-door neighbors were lovely. One was even a former marine who helped advise us on the SWATing problem and the issue of drug addicts/homeless breaking into the backyard. It was nice to know the neighbors.
 
 Overall, it's a great propery, but be aware of some serious safety issues and make sure your loved ones can navigate them.
+
+# 2024 Update
+
+I was told that after moving out, a new tenant was found: a family with a young child. I heard that the SWATing happened again, when the mother and her young child were home. Of course this was terrifying to the family and the child. Apparently they considered suing the landlord because they weren't warned of the risk. It was sad to hear of an even more innocent and fragile victim of these 911 abuse crimes.
+
+At the end of 2024, Scott Radin of Agam Properties reached out after seeing this web domain. He said that this web page was making it hard to rent the property, and asked that it be taken down, despite confirming that all of the content is 100% factual. He also offered to buy the web domain, which of course was intended to sweep this problem under the rug. Again, he did not agree to warn future tenants of this issue in exchange for removing the website.
+
+Potential buyers and renters: be aware! If sellers or property managers don't mention the safety risks, they may be doing so voluntarily, as the risks are well known at this point.
